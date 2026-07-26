@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/m-syamala-336976316/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+
 <a href="mailto:syamalameka7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syamalameka&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
