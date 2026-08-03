@@ -222,7 +222,7 @@ Modern responsive portfolio showcasing my projects, technical skills, certificat
 # 🔥 GitHub Streak
 <p>
 
-https://github-readme-streak-stats.herokuapp.com/?user=syamalameka&theme=tokyonight&hide_border=true
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syamalameka&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
