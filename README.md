@@ -210,12 +210,11 @@ Modern responsive portfolio showcasing my projects, technical skills, certificat
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=syamalameka&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syamalameka&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalameka&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
----
-
 # 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=syamalameka&theme=tokyonight&hide_border=true" />
 </p>
