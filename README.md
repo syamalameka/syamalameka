@@ -209,8 +209,7 @@ Modern responsive portfolio showcasing my projects, technical skills, certificat
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=syamalameka&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=syamalameka&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
