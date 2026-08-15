@@ -209,9 +209,9 @@ Modern responsive portfolio showcasing my projects, technical skills, certificat
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&theme=tokyonight" />
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
