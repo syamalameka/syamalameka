@@ -1,54 +1,110 @@
-<!-- PREMIUM_GITHUB_PROFILE_START -->
-
 <div align="center">
 
-# ⚡ Syamala Meka
+<img src="./assets/terminal-card.svg" width="100%" />
 
-### 🚀 Information Technology Student | Full-Stack Developer | AI/ML Enthusiast
+<br><br>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Java+%7C+Python+%7C+JavaScript;200%2B+DSA+Problems+Solved;Always+Learning+%26+Building" />
-</p>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=INITIALIZING+SYAMALA.MEKA...;FULL-STACK+DEVELOPER;AI%2FML+ENTHUSIAST;PROBLEM+SOLVER;BUILDING+INTELLIGENT+SYSTEMS;%24+whoami+%E2%86%92+syamalameka"
+alt="Animated Introduction"
+/>
+
+<br>
+
+<img src="https://img.shields.io/badge/●%20SYSTEM-ONLINE-39FF88?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚡%20MODE-BUILDING-00E5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/◉%20FOCUS-AI%20%2B%20FULL--STACK-A855F7?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
 
 </div>
 
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<img
-src="./assets/terminal-card.svg"
-width="100%"
-alt="Syamala Meka Terminal"
-/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<img
-src="./assets/info-card.svg"
-width="100%"
-alt="Syamala Meka Developer Information"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+---
 
 <div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                    SYAMALA@GITHUB                               ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   > booting developer_profile.exe                               ║
+║                                                                  ║
+║   [✓] Identity loaded                                            ║
+║   [✓] Engineering stack loaded                                  ║
+║   [✓] AI/ML modules loaded                                      ║
+║   [✓] Problem-solving engine online                             ║
+║                                                                  ║
+║   status  :: ONLINE                                              ║
+║   mode    :: BUILDING                                            ║
+║   mission :: LEARN → BUILD → SHIP                               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+
+<div align="center">
+
+## `01 // CONTRIBUTION MATRIX`
+
+<br>
 
 <img
 src="./assets/github-contribution-animation.svg"
-width="95%"
-alt="GitHub Contribution Animation"
+width="100%"
+alt="Animated GitHub Contribution Matrix"
 />
+
+<br><br>
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                    CONTRIBUTION ENGINE                        │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│   ░░░  LOW ACTIVITY                                           │
+│   ▒▒▒  CONSISTENT                                             │
+│   ▓▓▓  HIGH ACTIVITY                                          │
+│   ███  PEAK ACTIVITY                                          │
+│                                                               │
+│   pattern → learn → code → commit → improve → repeat         │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+
+<br>
+
+<div align="center">
+
+## `03 // TECHNOLOGY STACK`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,git,github,vscode,flask&perline=10" />
+
+<br><br>
+
+### `LANGUAGES`
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFDD00" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=A855F7" />
+
+<br><br>
+
+### `DEVELOPMENT`
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=FF6B35" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF" />
+
+<br>
+
+### `TOOLS & PLATFORMS`
+
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F1502F" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Jira-0D1117?style=flat-square&logo=jira&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/PowerBI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
 
 </div>
 
@@ -58,40 +114,82 @@ alt="GitHub Contribution Animation"
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,git,github,vscode" />
-</p>
+## `04 // FEATURED PROJECTS`
 
 </div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Smart Resume Analyzer
+## `01` Smart Resume Analyzer
 
-AI-powered resume analysis system built with Flask, NLP and Machine Learning.
+```text
+┌────────────────────────────────────┐
+│       RESUME INTELLIGENCE          │
+├────────────────────────────────────┤
+│                                    │
+│ Resume PDF                         │
+│      ↓                             │
+│ Text Extraction                    │
+│      ↓                             │
+│ NLP Processing                     │
+│      ↓                             │
+│ Skill Detection                    │
+│      ↓                             │
+│ ATS Evaluation                     │
+│      ↓                             │
+│ Improvement Suggestions            │
+│                                    │
+└────────────────────────────────────┘
 
-**Tech:** Python • Flask • NLP • HTML • CSS • JavaScript
+<div align="center">
+
+## `05 // PROBLEM SOLVING`
+
+<br>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+# `200+`
+
+### LeetCode
+
+DSA Problems
 
 </td>
 
-<td width="50%">
+<td width="25%" align="center">
 
-### 💻 CodePulse
+# `1000+`
 
-AI-powered GitHub repository analysis platform that evaluates repository activity and predicts project risk.
+### CodeChef
 
-**Tech:** Python • Flask • ML • GitHub API • JavaScript
+Problems
+
+</td>
+
+<td width="25%" align="center">
+
+# `5★`
+
+### HackerRank
+
+Python
+
+</td>
+
+<td width="25%" align="center">
+
+# `5★`
+
+### HackerRank
+
+SQL
 
 </td>
 
@@ -100,83 +198,94 @@ AI-powered GitHub repository analysis platform that evaluates repository activit
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## 🏆 Achievements
-
-| Achievement | Details |
-|---|---|
-| 🧠 LeetCode | 200+ DSA Problems |
-| 💻 CodeChef | 1000+ Problems |
-| 🐍 HackerRank | Python 5★ |
-| 🗄️ HackerRank | SQL 5★ |
-| 🚀 AlgoUniversity | Technology Fellowship 2025 |
-| 🏆 Myntra | Hacker Ramp — We For She 2025 |
+## `06 // ACHIEVEMENTS`
 
 </div>
 
----
+<table>
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
 
-## 📊 GitHub Analytics
+### 🏆 Myntra HackerRamp
 
-<p>
-<img
-src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=39ff88&text_color=ffffff"
-height="170"
-/>
+**We For She 2025**
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalameka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff"
-height="170"
-/>
-</p>
+National-level hackathon achievement.
 
-</div>
+</td>
 
----
+<td width="50%" valign="top">
 
-<div align="center">
+### 🚀 AlgoUniversity Technology Fellowship
 
-## 🔥 Contribution Streak
+**ATF 2025**
 
-<img
-src="https://streak-stats.demolab.com?user=syamalameka&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=39FF88&currStreakLabel=FFFFFF"
-/>
+Qualified Stage 1 — Top 8% Nationwide.
 
-</div>
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
 <div align="center">
 
-## 🌐 Connect With Me
+## `07 // GITHUB ANALYTICS`
 
-<a href="https://github.com/syamalameka">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br>
 
-<a href="https://www.linkedin.com/in/m-syamala-336976316/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
-</a>
+<img
+src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=39FF88&text_color=FFFFFF"
+height="180"
+/>
 
-<a href="https://portfolio-is54.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF88" />
-</a>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalameka&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"
+height="180"
+/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=syamalameka&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=39FF88&currStreakLabel=FFFFFF"
+width="80%"
+/>
 
 </div>
 
 <br>
 
+---
+
 <div align="center">
 
-### 💡 `Code. Build. Learn. Repeat.`
+## `08 // CURRENT BUILD`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:39FF88,100:A855F7&height=100&section=footer" width="100%" />
+<br>
 
-</div>
-
-<!-- PREMIUM_GITHUB_PROFILE_END -->
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    CURRENTLY BUILDING                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [██████████████████████████████████░░░░░░]  ACTIVE          ║
+║                                                              ║
+║  > AI-powered developer tools                                ║
+║  > Machine Learning applications                             ║
+║  > Full-Stack systems                                        ║
+║  > Intelligent automation                                    ║
+║  > DSA & problem solving                                     ║
+║                                                              ║
+║  objective → production-ready software                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
