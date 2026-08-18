@@ -1,145 +1,248 @@
+# Hi 👋, I'm Syamala Meka
 
-<div align="center">
+<h3 align="center">🚀 Information Technology Student | Full-Stack Developer | AI Enthusiast</h3>
 
-<img
-src="./assets/terminal-card.svg"
-width="100%"
-alt="Syamala Meka Premium Developer Terminal"
-/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Full-Stack+Developer;Python+Developer;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New+🚀" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://portfolio-is54.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-<img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=SYAMALA+MEKA;FULL-STACK+DEVELOPER;AI%2FML+ENTHUSIAST;PROBLEM+SOLVER;BUILDING+INTELLIGENT+SYSTEMS"
-alt="Syamala Meka"
-/>
+  <a href="https://www.linkedin.com/in/m-syamala-336976316/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-</div>
+<a href="mailto:syamalameka7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syamalameka&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
-<br>
+---
 
-<div align="center">
+# 🚀 About Me
 
-<a href="https://github.com/syamalameka">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+🎓 B.Tech Student specializing in **Information Technology**
+
+💡 Passionate about building AI-powered applications, scalable backend systems, and modern web applications.
+
+- 🔭 Currently building **AI-powered applications**
+- 🌱 Learning **Machine Learning, Generative AI, FastAPI & Cloud**
+- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript, SQL & FastAPI**
+- ⚡ Interested in **Software Development, Artificial Intelligence & Open Source**
+
+---
+
+# 🚀 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Generative AI
+- ⚡ FastAPI
+- 🗂 Git & GitHub
+- ☁ Cloud Computing
+- 📊 Power BI
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+---
+
+### 🌐 Full Stack Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,fastapi" />
+
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Resume Analysis
+- FastAPI
+- Flask
+- OpenAI API
+- Streamlit
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-1565C0?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ☁️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</p>
+
+---
+
+### 📚 Libraries & Frameworks
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- Matplotlib
+- Streamlit
+
+---
+# 🚀 Featured Projects
+
+### 📄 Smart Resume Analyzer
+
+AI-powered Resume Analyzer that extracts resume content, calculates ATS scores, and provides resume improvement suggestions using Python, Flask, and Machine Learning.
+
+---
+
+### 🤖 GitHub Repository Analyzer
+
+Analyzes GitHub repositories and provides AI-based project insights, repository health scores, code quality analysis, and interview questions using FastAPI.
+
+---
+
+### 🌐 Personal Portfolio Website
+
+Modern responsive portfolio showcasing my projects, technical skills, certifications, achievements, and coding profiles.
+
+
+---
+
+# 💻 Skills
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,fastapi,flask,vscode,mysql" />
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🏆 Winner - Myntra HackerRamp WeForShe 2025
+- 🚀 AlgoUniversity Technology Fellowship (ATF) 2025 – Qualified Stage 1 (Top 8%)
+- 💻 Solved **300+** LeetCode Problems
+- 💻 Solved **500+** GeeksforGeeks Problems
+- 📚 Completed multiple certifications in Java, Python, SQL, Linux, and Web Development
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/syamalameka/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/syamalameka">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/syamalameka7">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-is54.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/m-syamala-336976316/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-is54.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7"/>
-</a>
+</p>
 
-<a href="mailto:syamalameka@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9D00"/>
-</a>
+---
 
-</div>
+# 🔥 GitHub Streak
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=syamalameka&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
+# 📈 GitHub Activity Graph
 
-<img
-src="./assets/info-card.svg"
-width="82%"
-alt="Neofetch Developer Information"
-/>
+<p align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syamalameka&theme=tokyo-night"/>
 
-<br><br>
+</p>
 
-<div align="center">
+---
 
-<img
-src="./assets/github-contribution-animation.svg"
-width="96%"
-alt="Animated Contribution Matrix"
-/>
+# 📋 GitHub Profile Summary
 
-</div>
+<p align="center">
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syamalameka&theme=tokyonight"/>
 
-<div align="center">
+</p>
 
-# `ENGINEERING STACK`
+---
 
-<br>
+# 💡 Quote
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,flask,git,github,vscode&perline=10"/>
+> **"Success comes from continuous learning, consistent practice, and building projects that solve real-world problems." 🚀**
 
-<br><br>
+---
 
-<sub>
-Java · Python · JavaScript · HTML5 · CSS3 · SQL · Flask · Git · GitHub · VS Code
-</sub>
+<p align="center">
 
-</div>
+## ⭐ Thanks for visiting my profile!
 
-<br><br>
+### Code • Learn • Build • Innovate • Repeat 🚀
 
-<div align="center">
-
-# `SELECTED WORK`
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/syamalameka/smart-resume-analyzer">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=syamalameka&repo=smart-resume-analyzer&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=39FF88"
-width="48%"
-/>
-
-</a>
-
-<a href="https://github.com/syamalameka/Ai-project-Mentor">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=syamalameka&repo=Ai-project-Mentor&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7"
-width="48%"
-/>
-
-</a>
-
-<br>
-
-<a href="https://github.com/syamalameka/CodePulse">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=syamalameka&repo=CodePulse&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF9D00"
-width="48%"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `PROJECT FOCUS`
-
-</div>
-
-```text
-Smart Resume Analyzer
-AI-powered resume intelligence
-NLP • ATS Analysis • Skill Extraction • Flask
-
-AI Project Mentor
-AI-assisted developer/project guidance
-AI • Python • Full-Stack Development
-
-CodePulse
-GitHub repository intelligence
-Machine Learning • GitHub API • Risk Prediction
+</p>
