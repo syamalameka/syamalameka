@@ -1,110 +1,158 @@
 <div align="center">
 
-<img src="./assets/terminal-card.svg" width="100%" />
+<img src="./assets/terminal-card.svg" width="100%" alt="Syamala Meka Animated Terminal"/>
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=INITIALIZING+SYAMALA.MEKA...;FULL-STACK+DEVELOPER;AI%2FML+ENTHUSIAST;PROBLEM+SOLVER;BUILDING+INTELLIGENT+SYSTEMS;%24+whoami+%E2%86%92+syamalameka"
-alt="Animated Introduction"
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=SYAMALA+MEKA;FULL-STACK+DEVELOPER;AI%2FML+ENTHUSIAST;PROBLEM+SOLVER;BUILDING+INTELLIGENT+SYSTEMS"
+alt="Typing Animation"
 />
-
-<br>
-
-<img src="https://img.shields.io/badge/●%20SYSTEM-ONLINE-39FF88?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/⚡%20MODE-BUILDING-00E5FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/◉%20FOCUS-AI%20%2B%20FULL--STACK-A855F7?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
+<img src="https://img.shields.io/badge/●_ONLINE-39FF88?style=for-the-badge&labelColor=0D1117&color=39FF88"/>
+<img src="https://img.shields.io/badge/FULL--STACK-00E5FF?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
+<img src="https://img.shields.io/badge/AI%2FML-A855F7?style=for-the-badge&labelColor=0D1117&color=A855F7"/>
+<img src="https://img.shields.io/badge/BUILDING-FF9D00?style=for-the-badge&labelColor=0D1117&color=FF9D00"/>
+
 </div>
 
----
+<br><br>
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                    SYAMALA@GITHUB                               ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   > booting developer_profile.exe                               ║
-║                                                                  ║
-║   [✓] Identity loaded                                            ║
-║   [✓] Engineering stack loaded                                  ║
-║   [✓] AI/ML modules loaded                                      ║
-║   [✓] Problem-solving engine online                             ║
-║                                                                  ║
-║   status  :: ONLINE                                              ║
-║   mode    :: BUILDING                                            ║
-║   mission :: LEARN → BUILD → SHIP                               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+$ whoami
 
+syamalameka
+
+Information Technology Student
+Full-Stack Developer
+AI/ML Enthusiast
+Problem Solver
+
+$ status
+
+● SYSTEM ONLINE
+● CURRENTLY BUILDING
+● ALWAYS LEARNING
 
 <div align="center">
 
-## `01 // CONTRIBUTION MATRIX`
+<img
+src="./assets/info-card.svg"
+width="88%"
+alt="Syamala Meka Neofetch Information"
+/>
 
-<br>
+<br><br>
 
 <img
 src="./assets/github-contribution-animation.svg"
-width="100%"
+width="96%"
 alt="Animated GitHub Contribution Matrix"
 />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>⚡ ABOUT ME</h2>
+
+</div>
+
+<div align="center">
 
 ```text
-┌───────────────────────────────────────────────────────────────┐
-│                    CONTRIBUTION ENGINE                        │
-├───────────────────────────────────────────────────────────────┤
-│                                                               │
-│   ░░░  LOW ACTIVITY                                           │
-│   ▒▒▒  CONSISTENT                                             │
-│   ▓▓▓  HIGH ACTIVITY                                          │
-│   ███  PEAK ACTIVITY                                          │
-│                                                               │
-│   pattern → learn → code → commit → improve → repeat         │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-
-<br>
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  I build practical software at the intersection of     │
+│  full-stack development, AI and problem solving.       │
+│                                                         │
+│  My focus is not just learning technologies —          │
+│  it is turning those technologies into working         │
+│  applications.                                         │
+│                                                         │
+│  CURRENT FOCUS                                          │
+│                                                         │
+│  → Full-Stack Development                              │
+│  → Artificial Intelligence                             │
+│  → Machine Learning                                    │
+│  → Natural Language Processing                          │
+│  → Data Structures & Algorithms                         │
+│  → Developer Tools                                     │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 
 <div align="center">
 
-## `03 // TECHNOLOGY STACK`
+<h2>⚙️ TECHNOLOGY STACK</h2>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,git,github,vscode,flask&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,flask,git,github,vscode&perline=10"/>
 
 <br><br>
 
-### `LANGUAGES`
+<img src="https://img.shields.io/badge/JAVA-00E5FF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PYTHON-39FF88?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-FF9D00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF88" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFDD00" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=A855F7" />
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CSS3-00E5FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FLASK-FFFFFF?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>🚀 FEATURED PROJECTS</h2>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h3>🤖 SMART RESUME ANALYZER</h3>
+
+<img src="https://img.shields.io/badge/AI%20PROJECT-00E5FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/NLP-A855F7?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FLASK-39FF88?style=flat-square&labelColor=0D1117"/>
 
 <br><br>
 
-### `DEVELOPMENT`
-
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=FF6B35" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF" />
+<p>
+An AI-powered resume analysis platform that extracts resume content,
+detects skills, calculates ATS scores and provides actionable
+improvement suggestions.
+</p>
 
 <br>
 
-### `TOOLS & PLATFORMS`
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F1502F" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Jira-0D1117?style=flat-square&logo=jira&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/PowerBI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<code>Python</code>
+&nbsp;
+<code>Flask</code>
+&nbsp;
+<code>NLP</code>
+&nbsp;
+<code>Machine Learning</code>
+&nbsp;
+<code>HTML</code>
+&nbsp;
+<code>CSS</code>
+&nbsp;
+<code>JavaScript</code>
 
 </div>
 
@@ -114,87 +162,31 @@ alt="Animated GitHub Contribution Matrix"
 
 <div align="center">
 
-## `04 // FEATURED PROJECTS`
+<h3>🧠 CODEPULSE</h3>
 
-</div>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-39FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GITHUB%20API-00E5FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/RISK%20ANALYSIS-FF9D00?style=flat-square&labelColor=0D1117"/>
 
-<table>
-<tr>
+<br><br>
 
-<td width="50%" valign="top">
-
-## `01` Smart Resume Analyzer
-
-```text
-┌────────────────────────────────────┐
-│       RESUME INTELLIGENCE          │
-├────────────────────────────────────┤
-│                                    │
-│ Resume PDF                         │
-│      ↓                             │
-│ Text Extraction                    │
-│      ↓                             │
-│ NLP Processing                     │
-│      ↓                             │
-│ Skill Detection                    │
-│      ↓                             │
-│ ATS Evaluation                     │
-│      ↓                             │
-│ Improvement Suggestions            │
-│                                    │
-└────────────────────────────────────┘
-
-<div align="center">
-
-## `05 // PROBLEM SOLVING`
+<p>
+An AI-powered GitHub repository intelligence platform that analyses
+repository activity, engineers project features and predicts
+potential project risk.
+</p>
 
 <br>
 
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-# `200+`
-
-### LeetCode
-
-DSA Problems
-
-</td>
-
-<td width="25%" align="center">
-
-# `1000+`
-
-### CodeChef
-
-Problems
-
-</td>
-
-<td width="25%" align="center">
-
-# `5★`
-
-### HackerRank
-
-Python
-
-</td>
-
-<td width="25%" align="center">
-
-# `5★`
-
-### HackerRank
-
-SQL
-
-</td>
-
-</tr>
-</table>
+<code>Python</code>
+&nbsp;
+<code>Flask</code>
+&nbsp;
+<code>Machine Learning</code>
+&nbsp;
+<code>GitHub API</code>
+&nbsp;
+<code>JavaScript</code>
 
 </div>
 
@@ -204,35 +196,20 @@ SQL
 
 <div align="center">
 
-## `06 // ACHIEVEMENTS`
+<h3>🎯 QUIZ APPLICATION</h3>
+
+<p>
+Interactive browser-based quiz application with dynamic questions,
+score calculation and responsive user interaction.
+</p>
+
+<code>HTML</code>
+&nbsp;
+<code>CSS</code>
+&nbsp;
+<code>JavaScript</code>
 
 </div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏆 Myntra HackerRamp
-
-**We For She 2025**
-
-National-level hackathon achievement.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 AlgoUniversity Technology Fellowship
-
-**ATF 2025**
-
-Qualified Stage 1 — Top 8% Nationwide.
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
@@ -240,14 +217,73 @@ Qualified Stage 1 — Top 8% Nationwide.
 
 <div align="center">
 
-## `07 // GITHUB ANALYTICS`
+<h3>🎬 MOVIE WATCHLIST</h3>
+
+<p>
+Interactive movie management application for organising and
+maintaining a personal watchlist using JavaScript.
+</p>
+
+<code>HTML</code>
+&nbsp;
+<code>CSS</code>
+&nbsp;
+<code>JavaScript</code>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>🧩 PROBLEM SOLVING</h2>
+
+<br>
+
+<img src="https://img.shields.io/badge/LEETCODE-200%2B%20PROBLEMS-00E5FF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/CODECHEF-1000%2B%20PROBLEMS-39FF88?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/HACKERRANK-PYTHON%205%E2%98%85-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/HACKERRANK-SQL%205%E2%98%85-FF9D00?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<h2>🏆 ACHIEVEMENTS</h2>
+
+<br>
+
+<img src="https://img.shields.io/badge/MYNTRA%20HACKERRAMP-WE%20FOR%20SHE%202025-FF9D00?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ALGO%20UNIVERSITY-TECHNOLOGY%20FELLOWSHIP%202025-A855F7?style=for-the-badge&labelColor=0D1117"/>
+
+<br>
+
+<p>Qualified Stage 1 — Top 8% Nationwide</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>📊 GITHUB ANALYTICS</h2>
 
 <br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=39FF88&text_color=FFFFFF"
+src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=39FF88&text_color=FFFFFF"
 height="180"
 />
+
+<br><br>
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalameka&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"
@@ -265,27 +301,46 @@ width="80%"
 
 <br>
 
----
+<div align="center">
+
+<h2>🎯 ENGINEERING FOCUS</h2>
+
+<br>
+
+<img src="https://img.shields.io/badge/01-FULL--STACK%20DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/02-ARTIFICIAL%20INTELLIGENCE-39FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/03-MACHINE%20LEARNING-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/04-DATA%20STRUCTURES-FF9D00?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+<p>
+I enjoy building applications that combine clean interfaces,
+backend logic, APIs and intelligent systems.
+</p>
+
+</div>
+
+<br>
 
 <div align="center">
 
-## `08 // CURRENT BUILD`
+<h2>⌁ COMMAND CENTER</h2>
 
 <br>
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CURRENTLY BUILDING                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [██████████████████████████████████░░░░░░]  ACTIVE          ║
-║                                                              ║
-║  > AI-powered developer tools                                ║
-║  > Machine Learning applications                             ║
-║  > Full-Stack systems                                        ║
-║  > Intelligent automation                                    ║
-║  > DSA & problem solving                                     ║
-║                                                              ║
-║  objective → production-ready software                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+$ connect --github
+→ github.com/syamalameka
+
+$ connect --linkedin
+→ linkedin.com/in/m-syamala-336976316
+
+$ open --portfolio
+→ portfolio-is54.vercel.app
+
+$ system --status
+→ ONLINE
+
+$ mission
+→ BUILD • SOLVE • LEARN • SHIP
