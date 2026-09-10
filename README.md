@@ -371,20 +371,6 @@ alt="GitHub Streak"
 />
 
 </p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=syamalameka&theme=tokyo-night&hide_border=true"
-alt="GitHub Activity"
-/>
-
-</p>
-
 ---
 
 # 🐍 Contribution Animation
