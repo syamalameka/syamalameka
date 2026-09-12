@@ -1,229 +1,432 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffb3c6,100:ffc8dd&height=200&section=header&text=✿%20M.%20Syamala%20✿&fontSize=60&fontColor=8b5cf6&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20AI%20Enthusiast%20·%20B.Tech%202027&descAlignY=65&descSize=18&descColor=c084fc"/>
-</div>
+<!-- ========================================================= -->
+<!--                    SYAMALA MEKA                           -->
+<!-- ========================================================= -->
 
-<div align="center">
+<p align="center">
+  <img
+    src="./assets/Create_a_6second_premium_cinematic_looping_a.gif"
+    alt="Syamala Coding Animation"
+    width="100%"
+  />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=welcome+to+my+little+corner+🌸;building+AI-powered+web+apps+💜;code+%2B+creativity+%3D+magic+✨;250%2B+LeetCode+%7C+1000%2B+CodeChef+🏆;let%27s+create+something+beautiful+🌷)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Syamala Meka</h1>
 
-<img src="https://komarev.com/ghpvc/?username=syamalameka&color=c084fc&style=flat-square&label=✿+visitors" />
+<h3 align="center">
+Information Technology Student | Full-Stack Developer | AI Enthusiast
+</h3>
 
-</div>
+<p align="center">
+  Building practical software solutions with Python, Web Technologies,
+  AI APIs and Backend Development.
+</p>
 
----
+<p align="center">
 
-<!-- ABOUT ME -->
-<h2 align="center">🌸 About Me</h2>
+<a href="https://www.linkedin.com/in/m-syamala-336976316/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
+<a href="mailto:syamalameka7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 💜 Who am I?
+</p>
 
-- 🎓 **B.Tech Information Technology** @ Aditya University (2027) — CGPA: 8.0
-- 💻 **Full Stack Developer** — HTML, CSS, JS, Python, Flask, ReactJS
-- 🤖 Passionate about **AI & ML powered applications**
-- 🏆 **National Level Winner** — Myntra HackerRamp WeForShe 2025
-- 🚀 **ATF Fellow** — Top 8% Nationwide (AlgoUniversity 2025)
-- 📧 syamalameka7@gmail.com | 📱 +91-7815866365
-
-> *"First, solve the problem. Then, write the code."* 💜
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding gif"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,100:ffc8dd&height=60&section=footer"/>
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=syamalameka&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-<!-- WORK EXPERIENCE -->
-<h2 align="center">💼 Work Experience</h2>
+# 🚀 About Me
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌸 Full Stack Intern</h3>
-      <p><strong>Ava Intern Edutech Pvt. Ltd.</strong> — May 2026 - June 2026</p>
-      <ul>
-        <li>✿ Developed responsive web apps using HTML, CSS, JavaScript & Python</li>
-        <li>✿ Built and tested full-stack features</li>
-        <li>✿ Debugged and optimized applications</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>� T-HUB Member</h3>
-      <p><strong>Aditya University</strong> — Oct 2023 - Apr 2025</p>
-      <ul>
-        <li>✿ Participated in technical workshops & coding sessions</li>
-        <li>✿ Strengthened skills in Python, Java, HTML, CSS & C</li>
-        <li>✿ Contributed to mini-projects & improved problem-solving</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 👩‍💻 Who am I?
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,100:ffd6e7&height=60&section=footer"/>
-</div>
+- 🎓 B.Tech Student specializing in **Information Technology**
+- 💻 Full-Stack Developer interested in building real-world applications
+- 🤖 Interested in **Artificial Intelligence, Machine Learning and Generative AI**
+- 🐍 Strong interest in **Python and Backend Development**
+- 🧩 Regularly practicing **Data Structures & Algorithms**
+- 🚀 Passionate about turning ideas into working software
+- 🌱 Currently improving my skills in **AI APIs, FastAPI, Machine Learning and Cloud**
+
+> **"I don't just learn technologies. I build with them."**
 
 ---
 
+# 🏆 Achievements
 
-
----
-
-<!-- TECH STACK -->
-<h2 align="center">⚡ Tech Stack</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖥️ Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-      <br/><br/>
-      <h3>🎨 Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=react,flask" />
-      <br/><br/>
-      <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,jupyter" />
-      <br/><br/>
-      <h3>🤖 AI & Data</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Machine_Learning-ffd6e7?style=for-the-badge&logoColor=8b5cf6"/>
-        <img src="https://img.shields.io/badge/NLP-ffc8dd?style=for-the-badge&logoColor=8b5cf6"/>
-        <img src="https://img.shields.io/badge/Power_BI-ffb3c6?style=for-the-badge&logo=powerbi&logoColor=8b5cf6"/>
-        <img src="https://img.shields.io/badge/Google_Colab-ffd6e7?style=for-the-badge&logo=googlecolab&logoColor=8b5cf6"/>
-      </p>
-      <br/>
-      <h3>🛠️ Other Tools</h3>
-      <img src="https://skillicons.dev/icons?i=fastapi,postman" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3c6,100:ffd6e7&height=60&section=footer"/>
-</div>
+- 🏆 **Winner — Myntra HackerRamp WeForShe 2025**
+- 🚀 **AlgoUniversity Technology Fellowship (ATF) 2025 — Qualified Stage 1 (Top 8%)**
+- 💻 **300+ LeetCode Problems**
+- 💻 **500+ GeeksforGeeks Problems**
+- 📚 Certifications in **Java, Python, SQL, Linux and Web Development**
 
 ---
 
-<!-- ACHIEVEMENTS -->
-<h2 align="center">🏆 Achievements</h2>
+# ⚡ Tech Stack & Engineering Arsenal
 
-<div align="center">
+## 💻 Programming Languages
 
-| 🌸 | Achievement |
-|----|-------------|
-| 🥇 | **Winner** — Myntra HackerRamp WeForShe 2025 (National Level) |
-| � | **ATF Fellow** — AlgoUniversity Technology Fellowship 2025 — Top 8% Nationwide |
-| 💻 | **LeetCode** — 250+ Problems Solved |
-| � | **CodeChef** — Rating 1500 · 1000+ Problems Solved |
-| ⭐ | **HackerRank** — 5★ Python & SQL · 4★ C & Java |
+<p>
 
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,100:ffc8dd&height=60&section=footer"/>
-</div>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
 
 ---
 
-<!-- CERTIFICATIONS -->
-<h2 align="center">� Certifications</h2>
+## 🎨 Frontend
 
-<div align="center">
+<p>
 
-![HackerRank](https://img.shields.io/badge/HackerRank-ffd6e7?style=for-the-badge&logo=hackerrank&logoColor=8b5cf6)
-![Infosys](https://img.shields.io/badge/Infosys-ffc8dd?style=for-the-badge&logoColor=8b5cf6)
-![CodeChef](https://img.shields.io/badge/CodeChef-ffb3c6?style=for-the-badge&logo=codechef&logoColor=8b5cf6)
-![Red Hat](https://img.shields.io/badge/Red_Hat-ffd6e7?style=for-the-badge&logo=redhat&logoColor=8b5cf6)
-![Oracle](https://img.shields.io/badge/Oracle-ffc8dd?style=for-the-badge&logo=oracle&logoColor=8b5cf6)
-![Accenture](https://img.shields.io/badge/Accenture-ffb3c6?style=for-the-badge&logoColor=8b5cf6)
-![Deloitte](https://img.shields.io/badge/Deloitte-ffd6e7?style=for-the-badge&logoColor=8b5cf6)
-![AWS](https://img.shields.io/badge/AWS_DevOps-ffc8dd?style=for-the-badge&logo=amazonaws&logoColor=8b5cf6)
-![NPTEL](https://img.shields.io/badge/NPTEL_IoT_Elite+Silver-ffb3c6?style=for-the-badge&logoColor=8b5cf6)
-![IBM](https://img.shields.io/badge/IBM_AI_&_Python-ffd6e7?style=for-the-badge&logo=ibm&logoColor=8b5cf6)
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-</div>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,100:ffb3c6&height=60&section=footer"/>
-</div>
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- DOM Manipulation
 
 ---
 
-<!-- CODING PROFILES -->
-<h2 align="center">💻 Coding Profiles</h2>
+## ⚙️ Backend
 
-<div align="center">
+<p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-250+%20Solved-ffd6e7?style=for-the-badge&logo=leetcode&logoColor=8b5cf6)](https://leetcode.com/syamalameka)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1500%20Rating%20·%201000+%20Solved-ffc8dd?style=for-the-badge&logo=codechef&logoColor=8b5cf6)](https://codechef.com/users/syamalameka)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★%20Python%20&%20SQL-ffb3c6?style=for-the-badge&logo=hackerrank&logoColor=8b5cf6)](https://hackerrank.com/syamalameka)
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi"/>
 
-</div>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,100:ffc8dd&height=60&section=footer"/>
-</div>
-
----
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=c084fc&icon_color=f472b6&text_color=9d4edd&count_private=true" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=syamalameka&hide_border=true&background=fff0f6&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&sideLabels=c084fc&dates=9d4edd&sideNums=9d4edd&currStreakNum=9d4edd" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalameka&layout=compact&hide_border=true&bg_color=fff0f6&title_color=c084fc&text_color=9d4edd&langs_count=6" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syamalameka&bg_color=fff0f6&color=c084fc&line=f472b6&point=8b5cf6&area_color=ffd6e7&area=true&hide_border=true" width="97%"/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3c6,100:ffd6e7&height=60&section=footer"/>
-</div>
+- Python
+- Flask
+- FastAPI
+- REST APIs
+- Backend Development
+- API Integration
 
 ---
 
-<!-- CONNECT -->
-<h2 align="center">💌 Let's Connect</h2>
+## 🤖 Artificial Intelligence
 
-<div align="center">
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- OpenAI API
+- NLP
+- Resume Analysis
+- AI-powered Applications
+- Prompt Engineering
+- AI API Integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge&logo=linkedin&logoColor=8b5cf6)](https://linkedin.com/in/syamalameka)
-[![GitHub](https://img.shields.io/badge/GitHub-ffc8dd?style=for-the-badge&logo=github&logoColor=8b5cf6)](https://github.com/syamalameka)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ffb3c6?style=for-the-badge&logo=leetcode&logoColor=8b5cf6)](https://leetcode.com/syamalameka)
-[![CodeChef](https://img.shields.io/badge/CodeChef-ffd6e7?style=for-the-badge&logo=codechef&logoColor=8b5cf6)](https://codechef.com/users/syamalameka)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ffc8dd?style=for-the-badge&logo=hackerrank&logoColor=8b5cf6)](https://hackerrank.com/syamalameka)
-[![Gmail](https://img.shields.io/badge/Gmail-ffb3c6?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:syamalameka7@gmail.com)
+<p>
 
-</div>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
+
+</p>
 
 ---
 
-<div align="center">
+## 📊 Data & ML Libraries
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffc8dd,50:ffd6e7,100:ffb3c6&height=130&section=footer&text=thanks+for+stopping+by+🌸&fontSize=22&fontColor=8b5cf6&fontAlignY=65&animation=twinkling"/>
+- NumPy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- TensorFlow
+- Streamlit
 
-</div>
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+- MySQL
+- SQL
+- Database Queries
+
+---
+
+## 🛠️ Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+
+---
+
+# 💼 Featured Projects
+
+## 📄 Smart Resume Analyzer
+
+An AI-powered resume analysis application designed to evaluate resumes and provide useful feedback for improving ATS compatibility.
+
+### Technologies
+
+`Python` `Flask` `HTML` `CSS` `JavaScript` `Machine Learning`
+
+### Key Features
+
+- ✔ Resume content analysis
+- ✔ ATS score evaluation
+- ✔ Keyword analysis
+- ✔ Resume improvement suggestions
+- ✔ AI-assisted recommendations
+- ✔ Web-based interface
+
+---
+
+## 🤖 GitHub Repository Analyzer
+
+An AI-powered application that analyzes GitHub repositories and generates useful project insights.
+
+### Technologies
+
+`Python` `FastAPI` `GitHub API` `OpenAI API`
+
+### Key Features
+
+- ✔ Repository analysis
+- ✔ Project structure analysis
+- ✔ AI-generated project insights
+- ✔ Code quality analysis
+- ✔ Interview question generation
+- ✔ Repository evaluation
+
+---
+
+## 🌐 Personal Portfolio Website
+
+A responsive portfolio website created to showcase my projects, technical skills, achievements and coding profiles.
+
+### Technologies
+
+`HTML` `CSS` `JavaScript`
+
+### Key Features
+
+- ✔ Responsive design
+- ✔ Project showcase
+- ✔ Skills section
+- ✔ Achievements
+- ✔ Coding profiles
+- ✔ Contact section
+
+---
+
+# 🚀 Engineering Experience
+
+My development journey has mainly focused on building applications across **Web Development, Backend Development, AI and Problem Solving.**
+
+---
+
+## 🌐 Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Frontend Development
+- API Integration
+
+---
+
+## ⚙️ Backend Development
+
+- Python
+- Flask
+- FastAPI
+- REST APIs
+- API Development
+- Backend Architecture
+- JSON APIs
+
+---
+
+## 🤖 AI Applications
+
+- OpenAI API
+- Generative AI
+- Prompt Engineering
+- AI-powered Applications
+- Resume Analysis
+- NLP
+- Machine Learning
+
+---
+
+## 🧩 Problem Solving
+
+- Data Structures & Algorithms
+- Competitive Programming
+- LeetCode
+- GeeksforGeeks
+- CodeChef
+
+---
+
+# 🧠 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</p>
+
+- Machine Learning
+- Generative AI
+- FastAPI
+- AI APIs
+- Cloud Technologies
+- Backend Development
+
+---
+
+# 🏅 Problem Solving
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-500%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</p>
+
+I regularly practice Data Structures & Algorithms to improve my problem-solving skills and programming fundamentals.
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/syamalameka/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/syamalameka">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/syamalameka7">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syamalameka&theme=tokyonight"
+alt="GitHub Profile Summary"
+/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats-eight.vercel.app/?user=syamalameka&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=syamalameka&theme=tokyo-night&hide_border=true"
+alt="GitHub Activity"
+/>
+
+</p>
+
+---
+
+# 🐍 Contribution Animation
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/vinay-gupta-kandula/vinay-gupta-kandula/output/github-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Learn continuously. Build consistently. Solve real problems."** 🚀
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/m-syamala-336976316/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:syamalameka7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### Code • Learn • Build • Innovate • Repeat 🚀
+
+</p>
