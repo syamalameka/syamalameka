@@ -78,18 +78,19 @@
 
 ---
 
-## 🌺 Trophies
+## � My Coding Vibe
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syamalameka&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=7"/>
-</div>
 
----
+| 🌸 Stat | 💜 Value |
+|--------|---------|
+| 💻 Primary Language | Python & JavaScript |
+| ⏰ Code Hours | Early morning & late night |
+| ☕ Fuel | Coffee + lo-fi music |
+| 🐛 Debug Style | Console.log everything 😄 |
+| 🌱 Currently Learning | AI & Machine Learning |
+| 🎯 2025 Goal | 500+ contributions |
 
-## 🌻 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syamalameka&bg_color=fff0f6&color=c084fc&line=f472b6&point=8b5cf6&area_color=ffd6e7&area=true&hide_border=true"/>
 </div>
 
 ---
