@@ -1,102 +1,81 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:7C3AED,100:A78BFA&height=250&section=header&text=SYAMALA%20MEKA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=✦%20Full%20Stack%20Developer%20✦%20Code%20Architect%20✦%20Digital%20Dreamer%20✦&descAlignY=65&descSize=16&descColor=e2d9f3&stroke=7C3AED&strokeWidth=3" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=280&section=header&text=Syamala%20Meka&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=⚡%20Full%20Stack%20Developer%20•%20Code%20Architect%20•%20Digital%20Creator%20⚡&descAlignY=62&descSize=17&descColor=d8b4fe" />
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=60&lines=🚀+Hello+World!+I'm+Syamala;💻+I+turn+coffee+into+code;🔥+Full+Stack+%7C+AI+%7C+Cloud;⚡+Building+the+future...;🎯+Let's+create+something+epic!)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syamalameka/syamalameka/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syamalameka/syamalameka/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/syamalameka/syamalameka/output/github-snake-dark.svg" />
-</picture>
-
----
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### 🌌 Who Am I?
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=🚀+Hello+World!+I'm+Syamala;💻+I+turn+coffee+into+code;🔥+Full+Stack+Developer;⚡+Building+the+future...;🎯+Let's+create+something+epic!)](https://git.io/typing-svg)
 
-```javascript
-const syamala = {
-  name:     "Syamala Meka",
-  role:     "Full Stack Developer",
-  location: "India 🇮🇳",
-  code:     ["Python", "JS", "TypeScript"],
-  tools:    ["React", "Node", "FastAPI"],
-  database: ["MongoDB", "PostgreSQL"],
-  cloud:    ["Firebase", "Docker"],
-  motto:    "Code. Create. Conquer. 🚀",
-  available: true  // open to opportunities!
-};
-```
+</div>
 
-</td>
-<td valign="top" width="50%">
-
-### 🎯 What I'm Up To
-
-```
-🔭 Building   → Full Stack AI Apps
-🌱 Learning   → LLMs & Generative AI
-🤝 Open to    → Collabs & Open Source  
-💡 Exploring  → System Design at Scale
-🏆 Goal       → 1000+ GitHub contributions
-⚡ Fun fact   → I debug in my dreams 😄
-🎮 Hobbies    → Coding, Gaming, Music
-```
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-### ⚡ Tech Arsenal
+## 🌌 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+
+```python
+class SyamalaMeka:
+
+    name       = "Syamala Meka"
+    role       = "Full Stack Developer"
+    location   = "India 🇮🇳"
+    languages  = ["Python", "JavaScript", "TypeScript"]
+    frameworks = ["React", "Next.js", "Node.js", "FastAPI"]
+    databases  = ["MongoDB", "PostgreSQL", "Firebase"]
+    currently  = "Building AI-powered web apps 🤖"
+    open_to    = "Collaborations & Opportunities 🤝"
+    fun_fact   = "I debug in my dreams 😄"
+
+    def greet(self):
+        return "Thanks for visiting! ⭐ Star my repos!"
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-**🖥️ Languages**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🚀 Frameworks & Libraries**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**🛢️ Database & Cloud**
+**Backend**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**🔧 Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -104,49 +83,61 @@ const syamala = {
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=syamalameka&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=syamalameka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=syamalameka&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=ff6b6b&currStreakLabel=A855F7&sideLabels=A855F7"/>
 
-<br/><br/>
+<br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalameka&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalameka&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=6"/>
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syamalameka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syamalameka&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🎯 2025 Goals
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=syamalameka&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+| Goal | Progress |
+|------|----------|
+| 🚀 Launch 3 full stack projects | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
+| 🤖 Build an AI-powered app | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
+| ⭐ Get 100 GitHub stars | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
+| 📝 Write 10 tech blogs | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| 🤝 Contribute to Open Source | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
 
 </div>
 
 ---
 
-### 📈 Contribution Activity
+## 🌐 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syamalameka&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area_color=7C3AED&area=true&hide_border=true&custom_title=Syamala's%20Contribution%20Graph" />
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syamalameka)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/syamalameka)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/syamalameka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syamalameka.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syamalameka)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/syamalameka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syamalameka)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syamalameka.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syamalameka@gmail.com)
 
 </div>
@@ -155,21 +146,16 @@ const syamala = {
 
 <div align="center">
 
-### 💜 Support My Work
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/syamalameka)
+  <br/><br/>
 
-<br/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=syamalameka&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+  &nbsp;
+  ![Followers](https://img.shields.io/github/followers/syamalameka?color=7C3AED&style=for-the-badge&logo=github&label=FOLLOWERS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=syamalameka&color=7C3AED&style=for-the-badge&label=👁️+PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/syamalameka?color=7C3AED&style=for-the-badge&label=🤝+FOLLOWERS)
+  <br/><br/>
 
-<br/>
-
-```
-✨ "First, solve the problem. Then, write the code." — John Johnson ✨
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7C3AED&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos!&fontSize=18&fontColor=e2d9f3&fontAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer&text=Keep+Coding+%26+Keep+Growing+🚀&fontSize=20&fontColor=d8b4fe&fontAlignY=65&animation=twinkling"/>
 
 </div>
