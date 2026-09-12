@@ -95,7 +95,46 @@
 
 ---
 
-## 💌 Find Me
+## �️ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/syamalameka/project-one">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamalameka&repo=project-one&hide_border=true&bg_color=fff0f6&title_color=c084fc&icon_color=f472b6&text_color=9d4edd"/>
+</a>
+<a href="https://github.com/syamalameka/project-two">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamalameka&repo=project-two&hide_border=true&bg_color=fff0f6&title_color=c084fc&icon_color=f472b6&text_color=9d4edd"/>
+</a>
+
+</div>
+
+> 💜 **Note:** Replace `project-one` and `project-two` with your actual repo names!
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- Replace these with your actual blog post links -->
+
+- 🌸 [How I built my first Full Stack App](https://yourblog.com/post-1)
+- 💜 [Python tips & tricks I wish I knew earlier](https://yourblog.com/post-2)
+- ✨ [Why I love React — a developer's diary](https://yourblog.com/post-3)
+- 🌷 [My journey into AI & Machine Learning](https://yourblog.com/post-4)
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson 💜
+
+</div>
+
+---
+
+## �💌 Find Me
 
 <div align="center">
 
